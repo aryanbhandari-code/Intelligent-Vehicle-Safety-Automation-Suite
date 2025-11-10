@@ -1,0 +1,7 @@
+streamlit
+carla
+numpy
+opencv-python
+ultralytics
+paho-mqtt
+pygame
